@@ -20,7 +20,7 @@
 
 ## 🧪 Usage
 
-* Open the URL in two browser tabs or share with a friend.
+* Share the URL with your team/peers.
 * Allow camera and mic access.
 * Enjoy seamless peer-to-peer video conferencing.
 
