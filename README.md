@@ -25,18 +25,6 @@
 * Allow camera and mic access.
 * Enjoy seamless peer-to-peer video conferencing.
 
-## 📁 Project Structure
-
-chatuu/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── server.js
-│   └── ...
-├── package.json
-└── README.md
-
 ## 📄 License
 
 This project is open-source under the [MIT License](LICENSE).
