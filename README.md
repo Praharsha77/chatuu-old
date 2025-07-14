@@ -15,7 +15,7 @@
  </br>
 
 
-<img hight="500" width="500" align="right" alt="GIF" src="https://github.com/user-attachments/assets/89188c92-9a04-46d4-b97b-60b1e138f844">
+<img hight="500" width="500" align="right" alt="GIF" src="https://github.com/user-attachments/assets/5a194dd0-39ff-453c-ae9f-49f22704e620">
 
 
 - ✅ **Join/Start Video Calls Instantly**
