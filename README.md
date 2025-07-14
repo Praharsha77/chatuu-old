@@ -1,13 +1,13 @@
 <h1 align="center">Chatuu 🔥 – Video Conferencing Web App</h1>
 
 <div align="center">
-<img hight="300" width="1200" alt="GIF" align="center" src="https://github.com/user-attachments/assets/641b5e22-9c2f-4c4c-be38-a8f00c0e4c2c">
+<img hight="300" width="1200" alt="GIF" align="center" src="https://github.com/user-attachments/assets/68825280-0294-47ff-890e-142e807e5408">
+ 
 </div>
 
 </br>
 </br>
 </br>
-
 
 ## 🚀 Features :
 
