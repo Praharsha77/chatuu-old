@@ -8,7 +8,6 @@
 - 🎙️ **Toggle Mic & Camera**
 - 🖥️ **Seamless Screen sharing**
 - 🧑‍🤝‍🧑 **Participant Management**
-- 💬 **In-Call Chat Functionality**
 - 🔒 **Secure Meeting Rooms (via URL)**
 - 🌐 **No Installation Required — 100% Web-Based**
 
